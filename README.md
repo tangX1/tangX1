@@ -39,5 +39,7 @@ Web developer who also digs into security and networking side projects. Currentl
 
 ## GitHub stats
 
-![tangX1's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangX1&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tangX1&layout=compact&hide_border=true)
+Cards below are regenerated daily by [a GitHub Actions workflow](.github/workflows/grs.yml) in this repo, so they don't depend on any third-party server.
+
+![tangX1's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
