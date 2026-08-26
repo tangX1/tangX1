@@ -3,17 +3,17 @@
 Web developer who also digs into security and networking side projects. Currently open to new opportunities.
 
 - 🔭 Building full-stack apps with React, Node/Express, and Firebase/Supabase
-- 🔐 Exploring network tooling — see [`nmap-web`](https://github.com/tangX1/nmap-web), a UI for scanning and reporting on hosts
-- 🌱 Learning cybersecurity fundamentals — networking, recon, and web app scanning
-- 💼 Open to work — feel free to check out the projects below or reach out via GitHub
+- 🔐 Exploring network tooling: see [`nmap-web`](https://github.com/tangX1/nmap-web), a UI for scanning and reporting on hosts
+- 🌱 Learning cybersecurity fundamentals (networking, recon, and web app scanning)
+- 💼 Open to work, feel free to check out the projects below or reach out via GitHub
 
 ## Featured projects
 
 | Project | What it is |
 | --- | --- |
 | [nmap-web](https://github.com/tangX1/nmap-web) | Web UI for scanning and reporting on IP addresses / network hosts |
-| [Talent-flow-backend](https://github.com/tangX1/Talent-flow-backend) | TalentFlow LMS backend API — Express, Supabase, JWT auth |
-| [planner](https://github.com/tangX1/planner) | Drag-and-drop task planner with a calendar view — React + Firebase |
+| [Talent-flow-backend](https://github.com/tangX1/Talent-flow-backend) | TalentFlow LMS backend API: Express, Supabase, JWT auth |
+| [planner](https://github.com/tangX1/planner) | Drag-and-drop task planner with a calendar view (React + Firebase) |
 | [de-cal](https://github.com/tangX1/de-cal) | A simple calculator app built with vanilla HTML/CSS/JS |
 | [divineemordi](https://github.com/tangX1/divineemordi) | Earlier personal portfolio site, deployed via GitHub Pages |
 
