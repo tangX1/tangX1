@@ -4,6 +4,7 @@ Web developer who also digs into security and networking side projects. Currentl
 
 - 🔭 Building full-stack apps with React, Node/Express, and Firebase/Supabase
 - 🔐 Exploring network tooling — see [`nmap-web`](https://github.com/tangX1/nmap-web), a UI for scanning and reporting on hosts
+- 🌱 Learning cybersecurity fundamentals — networking, recon, and web app scanning
 - 💼 Open to work — feel free to check out the projects below or reach out via GitHub
 
 ## Featured projects
@@ -24,6 +25,17 @@ Web developer who also digs into security and networking side projects. Currentl
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+## Security toolkit
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## GitHub stats
 
